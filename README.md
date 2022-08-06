@@ -28,3 +28,4 @@
 | ----------- | -------------- | ------------------------------------------------------------ |
 | `/`         | `GET`          | Retorna todos os meses e dados relacionados                  |
 | `/:id`      | `GET`          | Retorna dados do mês com `:id` relacionado (ex: 1 = Janeiro) |
+| `/ref`      | `GET`          | Retorna a referência para as datas                           |
