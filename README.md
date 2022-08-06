@@ -21,3 +21,10 @@
 
 - Baixe as requisições do projeto com o comando `npm install`
 - Inicialize o projeto com o comando `npm start`
+
+### Endpoints
+
+| 🎯 Endpoint | 🌎 Método HTTP | 📄 Descrição                                                 |
+| ----------- | -------------- | ------------------------------------------------------------ |
+| `/`         | `GET`          | Retorna todos os meses e dados relacionados                  |
+| `/:id`      | `GET`          | Retorna dados do mês com `:id` relacionado (ex: 1 = Janeiro) |
