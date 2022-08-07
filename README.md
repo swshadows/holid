@@ -1,6 +1,6 @@
 # holid
 
-> 🏝 Uma API de feriados
+> 🏝 Uma API de feriados e datas comemorativas
 
 ## Inicialização
 
